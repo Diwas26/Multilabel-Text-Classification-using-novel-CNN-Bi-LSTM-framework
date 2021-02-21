@@ -19,4 +19,4 @@ Below is the flow diagram of the framewok that is used for classifying sentences
 
 ![alt text](https://github.com/Diwas26/Multilabel-Text-Classification-using-novel-CNN-Bi-LSTM-framework/blob/main/12.PNG)
 
-
+The dataset used for the sucessful demostration of the proposed framework is **Toxic Comment Classification Challenge** featured in Kaggle comptetion. The script provided is  very raw and naive combination of CNN and Bidirectional LSTM. more more effective results the frameowrk has to be tweeked and made suitable for own problems. 

@@ -7,7 +7,9 @@ Now, lot of algorithms and solutions for binary and multi class text classificat
 This multi-label classification approach finds its use in lots of major areas such as :
 
 1- Categorizing genre for movies by OTT platforms.
+
 2- Text Classifications by Banking and financial institutions.
+
 3- Automatic caption generation.
 
 Hence, need arises for a well to do AI driven approach. Here we present a deep learning framework that has been used for classifying the sentences into various labels. The aim of the article is to familiarize the audience as to how the CNN and Bi-LSTM networks in combinations is  used for providing a novel multi-label classifier.

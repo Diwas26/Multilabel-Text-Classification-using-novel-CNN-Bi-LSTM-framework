@@ -15,6 +15,6 @@ The CNN is used as feature extractor and Bi-LSTM as seq2seq learner to get us th
 
 Below is the flow diagram of the framewok that is used for classifying sentences :
 
-![Screenshot](12.png)
+![alt text](https://github.com/Diwas26/Multilabel-Text-Classification-using-novel-CNN-Bi-LSTM-framework/blob/main/12.PNG)
 
 
